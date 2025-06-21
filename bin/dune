@@ -1,0 +1,4 @@
+(executable
+ (public_name as3)
+ (name main)
+ (libraries as3))

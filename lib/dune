@@ -1,0 +1,3 @@
+(library
+ (name as3)
+ (flags (:standard -w -27 -w -39)))
